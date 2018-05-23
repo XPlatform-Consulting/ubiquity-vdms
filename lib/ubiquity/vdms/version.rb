@@ -1,5 +1,5 @@
 module Ubiquity
-  module Vdms
-    VERSION = "0.1.0"
+  module VDMS
+    VERSION = '1.0.0'
   end
 end
