@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['john.whitson@gmail.com']
 
   spec.summary       = %q{Gem and utilities to interact with Verizon Digital Media Services.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.description   = %q{}
   spec.homepage      = 'https://github.com/XPlatform-Consulting/ubiquity-vdms/blob/837efb00b62fe8fe2850055aedfb16fbca808dba/README.md'
   spec.license       = 'MIT'
 
